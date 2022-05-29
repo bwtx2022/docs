@@ -1,1 +1,0 @@
-(self.webpackChunkmodrinth_doc=self.webpackChunkmodrinth_doc||[]).push([[612],{5101:function(){},3197:function(){},9702:function(){},1408:function(){},3358:function(){}}]);
